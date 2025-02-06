@@ -1,8 +1,4 @@
-#Environment files
+# Ignore virtual environment
 myenv/
-*.pyd
 *.dll
-*.so
-*.h5
-*.log
-
+*.pyd

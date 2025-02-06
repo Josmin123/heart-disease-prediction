@@ -1,0 +1,8 @@
+#Environment files
+myenv/
+*.pyd
+*.dll
+*.so
+*.h5
+*.log
+
